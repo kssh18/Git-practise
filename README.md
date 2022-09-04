@@ -11,4 +11,7 @@
    
     - To check details that you have entered use git config `--list`.
 
-   
+
+3. Cloning a repo
+ 
+   - Now create a new repo GUI and clone it using the command `git clone repo-address` and replace the address ie. copied from the GUI.
