@@ -18,3 +18,9 @@
 
    - Now go to the directory that has been created by cloning, use `cd repo-name`.
 
+
+4. Adding and commiting a file to your reop
+
+   - Create any file in this directory and add some contents to it. Check the status of the directory by using `git status`.
+   
+  
