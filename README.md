@@ -23,4 +23,5 @@
 
    - Create any file in this directory and add some contents to it. Check the status of the directory by using `git status`.
    
-  
+   - Stage the files using `git add .` here '.' indicates all files, but if you want a single file to be commited you can use `git add filename`.
+
