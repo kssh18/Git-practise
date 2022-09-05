@@ -25,3 +25,6 @@
    
    - Stage the files using `git add .` here '.' indicates all files, but if you want a single file to be commited you can use `git add filename`.
 
+   - Stage the files using `git add .` here '.' indicates all files, but if you want a single file to be commited you can use `git add filename`.
+
+
