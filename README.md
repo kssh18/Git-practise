@@ -32,4 +32,6 @@
  
     - Once commited, push changes to remote repo using git push
     
+    - Now that you have pushed you will be prompted to enter you GitHub username and password.
     
+
