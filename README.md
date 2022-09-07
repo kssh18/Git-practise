@@ -34,4 +34,5 @@
     
     - Now that you have pushed you will be prompted to enter you GitHub username and password.
     
+    - Go to the GUI and you will find your changes.
 
