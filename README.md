@@ -36,3 +36,4 @@
     
     - Go to the GUI and you will find your changes.
 
+6. Branch and Merge
