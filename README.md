@@ -39,3 +39,5 @@
 6. Branch and Merge
 
     - `git branch` this will display all the branches that appear next to currently active branch.
+    
+    - `git branch [branch-name]` used to create a new branch at the current commit.
