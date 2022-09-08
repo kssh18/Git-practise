@@ -38,4 +38,4 @@
 
 6. Branch and Merge
 
-- `git branch` this will display all the branches that appear next to currently active branch.
+    - `git branch` this will display all the branches that appear next to currently active branch.
