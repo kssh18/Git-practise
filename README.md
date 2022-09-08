@@ -37,3 +37,5 @@
     - Go to the GUI and you will find your changes.
 
 6. Branch and Merge
+
+- `git branch` this will display all the branches that appear next to currently active branch.
