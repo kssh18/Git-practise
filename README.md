@@ -43,3 +43,5 @@
     - `git branch [branch-name]` used to create a new branch at the current commit.
     
     - `git checkout` switch to another branch and check it out into your working directory
+
+    `'git merge[branch]` merge the specified branch's history into current one.
