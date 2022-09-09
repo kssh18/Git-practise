@@ -30,7 +30,7 @@
 
 5. Pushing the changes to the remote repo
  
-    - Once commited, push changes to remote repo using git push
+    - Once commited, push changes to remote repo using git push.
     
     - Now that you have pushed you will be prompted to enter you GitHub username and password.
     
@@ -42,6 +42,6 @@
     
     - `git branch [branch-name]` used to create a new branch at the current commit.
     
-    - `git checkout` switch to another branch and check it out into your working directory
+    - `git checkout` switch to another branch and check it out into your working directory.
 
     `'git merge[branch]` merge the specified branch's history into current one.
