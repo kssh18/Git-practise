@@ -45,3 +45,5 @@
     - `git checkout` switch to another branch and check it out into your working directory.
 
     - `git merge[branch]` merge the specified branch's history into current one.
+    
+    - `git diff --stagged` diff of what is staged but not comitted
