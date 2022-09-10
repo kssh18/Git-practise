@@ -47,3 +47,5 @@
     - `git merge[branch]` merge the specified branch's history into current one.
     
     - `git diff --stagged` diff of what is staged but not comitted
+
+    - `git commit -m "[descriptive message]"`
