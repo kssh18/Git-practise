@@ -46,6 +46,8 @@
 
     - `git merge[branch]` merge the specified branch's history into current one.
     
+ 7. Stage and snap shot
+    
     - `git diff --stagged` diff of what is staged but not comitted
 
     - `git commit -m "[descriptive message]"` commit your staged content as new commit snapshot.
