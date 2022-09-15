@@ -53,3 +53,6 @@
     - `git commit -m "[descriptive message]"` commit your staged content as new commit snapshot.
     
     - `git diff` differeneceo of what is changed but not stagged.
+    
+    - `git reset [file]` unstage a file while retaining changes in working directory.
+
