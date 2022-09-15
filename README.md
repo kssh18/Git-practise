@@ -51,3 +51,5 @@
     - `git diff --stagged` diff of what is staged but not comitted
 
     - `git commit -m "[descriptive message]"` commit your staged content as new commit snapshot.
+    
+    - `git diff` differeneceo of what is changed but not stagged.
