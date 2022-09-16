@@ -55,4 +55,6 @@
     - `git diff` differeneceo of what is changed but not stagged.
     
     - `git reset [file]` unstage a file while retaining changes in working directory.
+    
+    - `git add [file]` adds a file as it looks now to your next commit.
 
