@@ -63,4 +63,5 @@
 
 - `git log` shows commit history for current active branch
  
- 
+- `git show [SHA]` shows any object in git in human redable format 
+
