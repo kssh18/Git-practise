@@ -60,4 +60,7 @@
 
 
 8. Inspect and compare
+
+- `git log` shows commit history for current active branch
+ 
  
