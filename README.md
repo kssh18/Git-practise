@@ -67,3 +67,5 @@
    
    - `git log --follow [file]` shows the commits on branch A that are not on branch B
 
+   - `git diff branchB...branchA` shows the diff in branch A that is not in branch B
+
