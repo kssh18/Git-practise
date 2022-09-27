@@ -69,5 +69,5 @@
 
    - `git diff branchB...branchA` shows the diff in branch A that is not in branch B.
    
-   - `git show [SHA}` show any object in git in human redable format
+   - `git show [SHA}` show any object in git in human redable format.
 
