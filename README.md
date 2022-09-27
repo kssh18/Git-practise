@@ -71,3 +71,5 @@
    
    - `git show [SHA}` show any object in git in human redable format.
 
+9. Tracking path changes
+
