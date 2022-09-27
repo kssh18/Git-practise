@@ -72,4 +72,5 @@
    - `git show [SHA}` show any object in git in human redable format.
 
 9. Tracking path changes
+   - `git rm [file]` delete the file from project and stage the removal for commit.
 
