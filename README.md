@@ -76,4 +76,4 @@
    
    - `git mv [existing-path] [newpath]` change an existing file path and stage the move.
 
-   - `git log --stat -M
+   - `git log --stat -M` shows all the commit logs with indicaion of paths moved.
