@@ -80,3 +80,4 @@
    
    
 10. Rewrite history
+   -`git rebase [branch]`apply any commits of current branh aheead of specified one
